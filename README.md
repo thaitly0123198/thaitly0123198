@@ -2,7 +2,7 @@
 
 ### Software engineer | C#/.NET · Python · React/TypeScript
 
-I build web applications, backend APIs, and tools that support day-to-day business operations. I have **2.5+ years of software development experience**, including healthcare SaaS at **Sectyr**, where I worked with a distributed U.S. product team.
+I build web applications, backend APIs, and tools that support day-to-day business operations. I have **2.5+ years of software development experience**, including enterprise SaaS.
 
 I'm open to **backend and full-stack software engineering roles** in Vietnam and international teams. I communicate professionally in English and speak Vietnamese natively.
 
