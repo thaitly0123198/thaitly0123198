@@ -42,7 +42,7 @@ A linear algebra learning platform combining interactive visualizations and prac
 
 ## Production experience
 
-**Sectyr — Programmer | July 2022 – November 2024**
+**Sectyr — Programmer | 
 
 I worked on healthcare SaaS in an Agile/Scrum team. My work included:
 
@@ -50,6 +50,10 @@ I worked on healthcare SaaS in an Agile/Scrum team. My work included:
 - Background checks for overdue tasks across time zones, with RabbitMQ email queues and a separate delivery worker.
 - MySQL JOIN queries and calls to existing stored procedures for operational data retrieval; reports and dashboards used by three departments.
 - Feature and regression test planning, debugging, and working within the team's CI/CD pipeline through pull/merge requests and conflict resolution.
+
+**Angelo State Uni. Computer Science Tutor | 
+- Tutored 40+ students per semester in Data Structures, Algorithms, and OOP (C++, Python, Java).
+- Delivered summer code camp sessions introducing web development fundamentals to high-school students.
 
 ## Technologies I work with
 
